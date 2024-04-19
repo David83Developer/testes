@@ -1,0 +1,51 @@
+{
+  "development1": {
+    "username": "user2",
+    "password": "Root#123",
+    "database": "teste",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test1": {
+    "username": "user2",
+    "password": "Root#123",
+    "database": "teste",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production1": {
+    "username": "user2",
+    "password": "Root#123",
+    "database": "teste",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+
+
+
+
+
+  "development": {
+    "username": "u395127032_david",
+    "password": "Ifscbasquete83",
+    "database": "u395127032_testes",
+    "host": "193.203.175.79",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "u395127032_david",
+    "password": "Ifscbasquete83",
+    "database": "u395127032_testes",
+    "host": "193.203.175.79",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "u395127032_david",
+    "password": "Ifscbasquete83",
+    "database": "u395127032_testes",
+    "host": "193.203.175.79",
+    "dialect": "mysql"
+  }
+
+
+}
